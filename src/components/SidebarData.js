@@ -18,7 +18,7 @@ export const SidebarData =[
     {
         title:"メール",
         icon: <MailIcon/>,
-        link: "/mail",
+        link: "/pages/mail.js",
     },
     {
         title:"アナリティクス",
